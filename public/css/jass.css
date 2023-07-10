@@ -344,6 +344,7 @@ html {
   html,
   body {
     min-height: 100%;
+    background-color: #31a9e1;
   }
   
   body {
